@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+  }
+  
+  .counter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    margin: 20px auto;
+  }
+  
+  .counter button {
+    padding: 10px 20px;
+  }
+  
+  .error {
+    display: none;
+    color: red;
+  }
